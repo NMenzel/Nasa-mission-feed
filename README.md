@@ -87,20 +87,5 @@ const withLess = require("next-with-less");
 
 see styles/global.less for more information
 
-Known issues: lint-staged
-lint staged runs on all staged files. By the first commit,
-the runner will have problems with the test fles, config files, etc.
-
-Hack: comment out the following in first commit and redo after commit
-
-.husky / pre-commit
-
-```bash
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
-#see lint-staged.config.js
-#yarn lint-staged -- comment this line in first commit then uncommend it
-```
 
 Copyright © 2023 Niklas Menzel-Sandic. All rights reserved.
