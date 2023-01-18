@@ -1,4 +1,7 @@
-# Next.js App Starter Template
+# NASA Missions test
+
+1H Project, which displays data about Nasa missions. For testing my NextJs Starter Template.
+This Project was bootstrapped with my Next.js Startup Template.
 
 THIS VERSION IS ONLY FOR NEXTJS 12
 
