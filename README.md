@@ -1,7 +1,7 @@
-# NASA Missions test
+# NASA Missions test-project
 
-1H Project, which displays data about Nasa missions. For testing my NextJs Starter Template.
-This Project was bootstrapped with my Next.js Startup Template.
+1H Project, which displays data about NASA missions, to test my Next.js Starter Template. 
+This Project was bootstrapped with Next.js Starter Template.
 
 THIS VERSION IS ONLY FOR NEXTJS 12
 
@@ -103,4 +103,4 @@ Hack: comment out the following in first commit and redo after commit
 #yarn lint-staged -- comment this line in first commit then uncommend it
 ```
 
-Copyright © 2022 Niklas Menzel-Sandic. All rights reserved.
+Copyright © 2023 Niklas Menzel-Sandic. All rights reserved.
